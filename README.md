@@ -6,8 +6,8 @@
 
 ## About Me 🌱
 
-Hey! i'm Kryx, a technology enthusiast from Spain, i enjoy messing with servers and hacking with a little bit of programming, i enjoy doing random things in general and starting projects and things i
-never finish because i get anxiety, lazy or get distracted due to ADHD.
+Hey! i'm Kryx, a technology enthusiast from Spain, i enjoy messing with servers and hacking with a little bit of programming, i like doing random things in general too and starting projects and things i
+never finish because i get anxiety, lazy or get distracted due to unmedicated ADHD.
 
 if you wanna know more or see my skills you can check <a href="https://kryx.lol" target="_blank"/>my website.</a>
 
