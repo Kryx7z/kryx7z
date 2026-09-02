@@ -9,7 +9,7 @@
 Hey! i'm Kryx, a technology enthusiast from Spain, i enjoy messing with servers and hacking with a little bit of programming, i enjoy doing random things in general and starting projects and things i
 never finish because i get anxiety, lazy or get distracted due to ADHD.
 
-if you wanna know more or see my skills you can check [my website](https://kryx.lol).
+if you wanna know more or see my skills you can check <a href="https://kryx.lol" target="_blank"/>my website.</a>
 
 P.D: thats not my personal website, thats just a portfolio for my internet persona, i hate putting a mask for different situtations, if i want to have a website where i can express myself and put whatever i want without worrying about some bs like "you should be hearing from us next week.." im gonna do it.
 
