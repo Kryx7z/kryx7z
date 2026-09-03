@@ -27,8 +27,6 @@ Email: kryx7z@proton.me
 
 ## Twitter/X 🐦
 
-while i work on making a project you can use to put your Twitter profile as a widget like discord, we need to use the old boring text method:
-
 @Kryx7z
 
 <div align="center">
