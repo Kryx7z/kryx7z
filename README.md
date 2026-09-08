@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hey! i'm Kryx 👋</b></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Tech+enthusiast.;Systems+Admin.;Active+learner+and+researcher." alt="Typing SVG" /></a>
-</p>
-
 ## About Me 🌱
 
 Hey! i'm Kryx, a technology enthusiast from Spain, i enjoy messing with servers and hacking with a little bit of programming, i like doing random things in general too and starting projects and things i
