@@ -24,7 +24,3 @@ Email: kryx7z@proton.me
 ## Twitter/X 🐦
 
 @Kryx7z
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ECvb6LRh3t6YHYC2Ua/giphy.gif" width="300" />
-</div>
