@@ -14,4 +14,8 @@
 </pre>
 </div>
 
-if you wanna know more or see my skills you can check <a href="https://kryx.lol" target="_blank"/>my website.</a>
+<h1><a href="https://kryx.lol" target="_blank"/>My website.</a></h1>
+
+<h1>Socials.</h1>
+<p>Twitter/X: <a href="https://x.com/Kryx7z" target="_blank">@Kryx7z</a></p>
+
